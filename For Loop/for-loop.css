@@ -1,0 +1,16 @@
+.kontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.tree{
+    box-sizing: border-box;
+    border: 2px solid green;
+    height: 500px;
+    width: 500px;
+    font-size: 18px;
+    color: green;
+    padding: 100px;
+}
+

@@ -1,0 +1,75 @@
+/* *{
+    border: 1px solid red ;
+} */
+body{
+      display: flex;
+    align-items: center;
+    justify-content: center;
+     flex-direction: column;
+
+}
+.bigitem{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+     flex-direction: column;
+     padding: 15px;
+     border: 3px solid black;
+     margin-bottom: 20px;
+}
+.Fizz_Buzz{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     flex-direction: column;
+     padding: 15px;
+     border: 3px solid black;
+     margin-bottom: 20px;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+    height:100px;
+    width: 200px;
+}
+.fizzinput{
+    height: 30px;
+    width: 160px;
+}
+.fizzbtn{
+     height: 35px;
+    width: 50px;
+    border-radius: 15%;
+}
+.fizzbtn:focus{
+    background-color: rgb(79, 250, 0);
+    color: white;
+}
+.out{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+}
+.inputbox{
+    margin-bottom: 10px;
+}
+.ballout{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;}

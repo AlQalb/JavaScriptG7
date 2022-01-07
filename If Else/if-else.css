@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+}
+.logger{
+    display: flex;
+    justify-content: center;
+}
+input{
+    height: 40px;
+    font-size: 20px;
+}
